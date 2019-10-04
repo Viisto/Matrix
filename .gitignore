@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MatrixRain/bin/Debug/netcoreapp2.2
+/MatrixRain/obj/Release/netcoreapp2.2
+/MatrixRain/obj
